@@ -1,0 +1,2 @@
+# ForceCalc
+F = ma 
